@@ -20,6 +20,7 @@
 |Visiteur| Retourner en haut de la page via un simple bouton| Accéder rapidement au menu et de faciliter ma navigation sur le site|
 |Visiteur| Contacter les administrateurs du site via la page "Contact"| Leur demander des renseignements ou de supprimer mes données personnelles|
 |Visiteur| Consulter les mentions légales du site |
+|Visiteur| Accéder aux réseaux sociaux du site| Rejoindre la communauté du site et de rester informé des potentielles nouveautés|
 |Utilisateur| Accéder à Mon compte utilisateur | De retrouver mes informations de jeu (personnages, inventaire, etc.)|
 |Utilisateur| Me déconnecter du site | 
 |Utilisateur| Supprimer mon compte |
