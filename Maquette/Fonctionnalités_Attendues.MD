@@ -7,7 +7,7 @@
 ## En haut de la page
 
 - Afficher le titre du site (au clic on doit revenir à la page d'accueil)
-- Il doit y avoir un menu de navigation permettant d'accéder à aux pages des articles, des guides, des données de jeu et permettant à l'utilisateur d'accéder à son espace utilisateur, de s'inscrire ou de se connecter
+- Il doit y avoir un menu de navigation permettant d'accéder à la page accueil, aux pages des articles, des guides, des données de jeu et permettant à l'utilisateur d'accéder à son espace utilisateur, de s'inscrire ou de se connecter
 
 ## Sur la page d'accueil
 
